@@ -45,7 +45,7 @@ It is recommended that you use a Diff tool to compare the configuration file cha
 		* remove &lt;section name="BaseRestExtensions"&gt; section
 		* remove &lt;section name="FileSystemProviders"&gt; section
 		* remove &lt;sectionGroup name="system.web.webPages.razor"&gt; section
-		* remove &lt;<FileSystemProviders &gt; element
+		* remove &lt;FileSystemProviders &gt; element
 		* remove &lt;BaseRestExtensions &gt; element
 		* remove &lt;add key="umbracoUseMediumTrust" &gt; element
 		* remove &lt;system.web.extensions&gt; element
